@@ -15,7 +15,6 @@ repositories {
 dependencies {
     implementation(libs.okhttp)
 //    implementation(gradleApi())
-    testImplementation(kotlin("test"))
 }
 
 
